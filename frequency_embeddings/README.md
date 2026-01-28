@@ -55,7 +55,7 @@ pip install -r requirements.txt  # Run inside each module folder
 This repo complements the concepts discussed in:
 
 📄 Medium Article  
-Word Embeddings in NLP: From Bag-of-Words to Transformers (Part 1) (https://medium.com/@sivasai-yadav)
+Word Embeddings in NLP: From Bag-of-Words to Transformers (Part 1) [Medium](https://medium.com/@sivasai-yadav)
 Explore how frequency-based methods laid the groundwork for semantic embeddings like Word2Vec, GloVe, and BERT.
 
 🤝 Contributions
